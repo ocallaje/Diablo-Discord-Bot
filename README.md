@@ -1,1 +1,1 @@
-# Diablo-Discord-Bot
+# Discord-Bot
