@@ -2,6 +2,9 @@
 build/
 __pycache__
 
+# Project specific files
+bot_info.txt
+
 # Environments
 .env
 .venv
